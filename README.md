@@ -1,3 +1,7 @@
+## Contact
+Portable : 0675987151  
+Mail : malika.butzbach@gmail.com  
+Adresse : 11 rue Georgette Rostaing, 94 200 Ivry-s/-Seine
 # **Expériences professionnelles**
 - ## Journaliste, AEF info
 _Depuis octobre 2018_  
@@ -11,17 +15,13 @@ Réalisation d'articles et d'infographies intéractives. ([ici](https://www.la-c
 - ## Journaliste stagiaire, Nord Littoral
 _Juillet 2015 – stage d’un mois au sein de la rédaction_  
 Articles et reportages sur divers sujets  à Calais.  
-
 # **Formation**
 - #### Master Institut Pratique du Journalisme (IPJ Paris-Dauphine) (_2016-2018_)
 Parcours journalisme économique - Spécialisation médias écrits et numériques (en apprentissage).
-
 - #### Licences Histoire et Sciences Politiques (_2012-2016_)
 Paris-VII et Paris-I.
-
 - #### Baccalauréat ES (_2012_)
 Lycée Beauprè (Haubourdin 59), sport études rugby.
-
 # **Compétences**
 - **Langues** :
   - Anglais (C1, courant)
@@ -45,7 +45,6 @@ Lycée Beauprè (Haubourdin 59), sport études rugby.
   - Youtube
   - Flux RSS et SEO
 - **Animation** : Bafa, animatrice de 2012 à 2015
-
 # **Centres d'intérêts**
 - #### Rugby
 Loisir à X et VII (PUC). Lycée sport études et compétitions rugby à VII (haut niveau).
