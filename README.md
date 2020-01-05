@@ -8,7 +8,7 @@ Réalisation d’articles (brèves, reportages, interviews et enquêtes) pour le
 - ## Journaliste stagiaire, LaCroix.com
 _Aout 2015 – stage d’un mois au sein du service web de La Croix_  
 Réalisation d'articles et d'infographies intéractives. ([ici](https://www.la-croix.com/Actualite/Europe/Explosion-des-demandes-d-asile-en-Europe-2015-08-06-1341958) et [ici](https://www.la-croix.com/Actualite/France/Quatre-mois-de-crise-au-Front-national-2015-08-20-1346216))
--## Journaliste stagiaire, Nord Littoral
+- ## Journaliste stagiaire, Nord Littoral
 _Juillet 2015 – stage d’un mois au sein de la rédaction_  
 Articles et reportages sur divers sujets  à Calais.  
 
