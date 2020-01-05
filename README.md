@@ -14,7 +14,8 @@ _Aout 2015 – stage d’un mois au sein du service web de La Croix_
 Réalisation d'articles et d'infographies intéractives. ([ici](https://www.la-croix.com/Actualite/Europe/Explosion-des-demandes-d-asile-en-Europe-2015-08-06-1341958) et [ici](https://www.la-croix.com/Actualite/France/Quatre-mois-de-crise-au-Front-national-2015-08-20-1346216))
 - ## Journaliste stagiaire, Nord Littoral
 _Juillet 2015 – stage d’un mois au sein de la rédaction_  
-Articles et reportages sur divers sujets  à Calais.  
+Articles et reportages sur divers sujets  à Calais.
+
 # **Formation**
 - #### Master Institut Pratique du Journalisme (IPJ Paris-Dauphine) (_2016-2018_)
 Parcours journalisme économique - Spécialisation médias écrits et numériques (en apprentissage).
@@ -22,6 +23,7 @@ Parcours journalisme économique - Spécialisation médias écrits et numérique
 Paris-VII et Paris-I.
 - #### Baccalauréat ES (_2012_)
 Lycée Beauprè (Haubourdin 59), sport études rugby.
+
 # **Compétences**
 - **Langues** :
   - Anglais (C1, courant)
