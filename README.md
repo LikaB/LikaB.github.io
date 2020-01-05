@@ -44,7 +44,8 @@ Lycée Beauprè (Haubourdin 59), sport études rugby.
   - Instagram
   - Youtube
   - Flux RSS et SEO
-- **Animation** : Bafa, animatrice de 2012 à 2015  
+- **Animation** : Bafa, animatrice de 2012 à 2015
+
 # **Centres d'intérêts**
 - #### Rugby
 Loisir à X et VII (PUC). Lycée sport études et compétitions rugby à VII (haut niveau).
